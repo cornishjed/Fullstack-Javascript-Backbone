@@ -1,0 +1,15 @@
+{
+  "name": "fullstack-javascript",
+  "version": "1.0.0",
+  "main": "apple-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
